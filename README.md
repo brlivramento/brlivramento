@@ -4,6 +4,6 @@
 </p>
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brlivramento&layout=compact&langs_count=6&theme=github_dark&card_width=800&hide_border=true&hide_title=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brlivramento&layout=compact&langs_count=4&theme=github_dark&card_width=800&hide_border=true&hide_title=true"
   />
 </p>
